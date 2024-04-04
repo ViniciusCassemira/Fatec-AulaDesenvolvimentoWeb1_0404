@@ -3,3 +3,4 @@ Produto/Venda
 Camiseta:0
 Calça:0
 Meia Hello Kitty:10
+calcinha:8 
