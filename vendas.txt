@@ -4,4 +4,4 @@ Camiseta:2
 Calça:1
 Meia Hello Kitty:10
 calcinha:9
-
+cueca:666
